@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="137387989362021019edf8d32bba10f7" extends="sc_request" label="Work Order" max_length="40" name="x_909466_apartme_0_work_order" type="collection">
+        <element label="Access instructions" max_length="4000" name="access_instructions" type="string"/>
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Building Maintenance" sequence="0" value="Building Maintenance"/>
+                <element inactive_on_update="false" label="Make Ready" sequence="1" value="Make Ready"/>
+                <element inactive_on_update="false" label="Unit Maintenance" sequence="2" value="Unit Maintenance"/>
+            </choice>
+        </element>
+        <element label="Permission to enter" mandatory="true" max_length="40" name="permission_to_enter" type="boolean"/>
+        <element choice="1" dependent="category" dependent_on_field="category" label="Sub category" mandatory="true" max_length="40" name="sub_category" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Carpet Cleaning" sequence="0" value="Carpet Cleaning"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Door Repair" sequence="1" value="Door Repair"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Drywall Repair" sequence="2" value="Drywall Repair"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Electrical Repair" sequence="3" value="Electrical Repair"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Flooring" sequence="4" value="Flooring"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Laundry" sequence="5" value="Laundry"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Mechanical Repair" sequence="6" value="Mechanical Repair"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Painting" sequence="7" value="Painting"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Pest Control" sequence="8" value="Pest Control"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Plumbing Repair" sequence="9" value="Plumbing Repair"/>
+                <element dependent_value="Building Maintenance" inactive_on_update="false" label="Windows" sequence="10" value="Windows"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Air Conditioning" sequence="11" value="Air Conditioning"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Appliance - Dishwasher" sequence="12" value="Appliance - Dishwasher"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Appliance - Dryer" sequence="13" value="Appliance - Dryer"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Appliance - Refrigerator" sequence="14" value="Appliance - Refrigerator"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Appliance - Stove" sequence="15" value="Appliance - Stove"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Appliance - Washer" sequence="16" value="Appliance - Washer"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Doors" sequence="17" value="Doors"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Electrical" sequence="18" value="Electrical"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Flooring" sequence="19" value="Flooring"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Heating" sequence="20" value="Heating"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Locks/Keys" sequence="21" value="Locks/Keys"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Other" sequence="22" value="Other"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Painting" sequence="23" value="Painting"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Pest Control" sequence="24" value="Pest Control"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Plaster/Drywall" sequence="25" value="Plaster/Drywall"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Plumbing" sequence="26" value="Plumbing"/>
+                <element dependent_value="Unit Maintenance" inactive_on_update="false" label="Windows" sequence="27" value="Windows"/>
+            </choice>
+        </element>
+    </element>
+</database>
