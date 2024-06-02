@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,state</field_list>
+        <name>My request - incident predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">e19a071460a20210108bc67bc4beb31b</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:18</sys_created_on>
+        <sys_id>219a07148ea202103ca75a43967c4018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - incident predicate</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_219a07148ea202103ca75a43967c4018</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:18</sys_updated_on>
+        <table>incident</table>
+        <ux_template display_value="Item produced template">2d9a07142fa20210829686e6c111c91b</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">259a0714c5a20210eb597908dc1afc4b</declarative_action_assignment>
+        <predicate display_value="My Tasks">299a071495a20210c77f95f2acc80e19</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:18</sys_created_on>
+        <sys_id>6d9a071497a20210bc4996041d19160e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_6d9a071497a20210bc4996041d19160e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:18</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

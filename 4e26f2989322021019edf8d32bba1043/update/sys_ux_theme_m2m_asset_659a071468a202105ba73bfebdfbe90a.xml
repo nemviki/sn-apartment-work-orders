@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">ad9a0714e9a20210ef2b05a266000c0a</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>659a071468a202105ba73bfebdfbe90a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_659a071468a202105ba73bfebdfbe90a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:18</sys_updated_on>
+        <theme display_value="Light Theme">6d9a0714eca2021066551b2be62e494b</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

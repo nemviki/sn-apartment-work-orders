@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Custom Portal App Config">119ac31493a2021019edf8d32bba10c7</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ {
+  "eventMappingId" : "ckfmaaairddaaaaffjddhhhdiwqbkiwr",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_909466_apartme_0.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_219a0714e0a20210bb2068f72d416c15",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_909466_apartme_0.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_219a0714e0a20210bb2068f72d416c15",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "items" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "items" ]
+            }
+          }
+        }
+      },
+      "sysId" : "49fe7d575f983bb3f8eea3fa8d40694c"
+    },
+    "operation" : null,
+    "targetId" : "ckfmaaairddaaaaffiddhhhdoiasehhlj",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Preferences">219a0714e0a20210bb2068f72d416c15</macroponent>
+        <macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "2"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Preferences Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">e19a0714c3a20210d22e8093472cd333</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Preferences">ed9a071404a2021061b9628f3f7b5833</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d9a0714d5a202101a48acccc018900b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_screen_6d9a0714d5a202101a48acccc018900b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:18</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d9a0714d5a202101a48acccc018900b"/>
+</record_update>

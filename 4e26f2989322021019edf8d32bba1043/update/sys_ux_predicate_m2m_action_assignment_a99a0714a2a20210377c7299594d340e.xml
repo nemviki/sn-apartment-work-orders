@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="Custom portal - Related items predicate">6d9a071429a20210c6e1e61c66e0581a</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:19</sys_created_on>
+        <sys_id>a99a0714a2a20210377c7299594d340e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_a99a0714a2a20210377c7299594d340e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:19</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

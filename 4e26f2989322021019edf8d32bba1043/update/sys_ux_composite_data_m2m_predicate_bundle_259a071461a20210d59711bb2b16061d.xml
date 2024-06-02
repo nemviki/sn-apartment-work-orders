@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">e19a0714a8a2021067c6dcca2cb0e621</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">e99a071463a20210d95f4faa2d9cf81c</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-29 20:28:18</sys_created_on>
+        <sys_id>259a071461a20210d59711bb2b16061d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_259a071461a20210d59711bb2b16061d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-29 20:28:18</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>
