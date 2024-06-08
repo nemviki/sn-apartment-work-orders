@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Apartment Tenant Catalog">108961ab9322021019edf8d32bba10ec</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 15:44:55</sys_created_on>
+        <sys_id>b8a925ab9322021019edf8d32bba10cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apartment Tenant Catalog.catalog_apartment_tenant_catalog</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_apartment_tenant_catalog">74a96d6b9322021019edf8d32bba10f1</sys_portal_page>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b8a925ab9322021019edf8d32bba10cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 15:44:55</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

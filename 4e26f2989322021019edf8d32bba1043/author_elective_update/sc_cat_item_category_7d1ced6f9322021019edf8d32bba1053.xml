@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Work Orders">7ecaedeb9322021019edf8d32bba10a3</sc_cat_item>
+        <sc_category display_value="Maintenance">3cb9e5ab9322021019edf8d32bba100b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 15:55:38</sys_created_on>
+        <sys_id>7d1ced6f9322021019edf8d32bba1053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance.Work Orders</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sc_cat_item_category_7d1ced6f9322021019edf8d32bba1053</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 15:55:38</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</application>
+        <file_path/>
+        <instance_id>d9f343311bf1f958c84543f4bd4bcb10</instance_id>
+        <instance_name>dev182936</instance_name>
+        <name>sc_cat_item_category_7d1ced6f9322021019edf8d32bba1053</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Work Orders">7ecaedeb9322021019edf8d32bba10a3</sc_cat_item><sc_category display_value="Maintenance">3cb9e5ab9322021019edf8d32bba100b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-08 15:55:38</sys_created_on><sys_id>7d1ced6f9322021019edf8d32bba1053</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maintenance.Work Orders</sys_name><sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package><sys_policy/><sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope><sys_update_name>sc_cat_item_category_7d1ced6f9322021019edf8d32bba1053</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-08 15:55:38</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1235820685</payload_hash>
+        <record_name>Maintenance.Work Orders</record_name>
+        <reverted_from/>
+        <source>d38247589322021019edf8d32bba1095</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 15:55:39</sys_created_on>
+        <sys_id>f51ced6f9322021019edf8d32bba1058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff890048f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 15:55:39</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>391ced6f3c2202105f2944a66675e157</update_guid>
+        <update_guid_history>391ced6f3c2202105f2944a66675e157:1235820685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Maintenance.Work Orders">913ca1af9322021019edf8d32bba1016</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 15:56:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>265f4104374d45b5b74f1e9f78ab9409</sys_id>
+        <sys_metadata>7d1ced6f9322021019edf8d32bba1053</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance.Work Orders</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_scope_delete display_value="">010c2c9570cc40c4819b9634e1e90a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7d1ced6f9322021019edf8d32bba1053</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7d1ced6f9322021019edf8d32bba1053">f51ced6f9322021019edf8d32bba1058</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 15:56:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

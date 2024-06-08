@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Number of months">f56ea1639362021019edf8d32bba104d</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 16:06:30</sys_created_on>
+        <sys_id>0d9ea5639362021019edf8d32bba1073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>12</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>question_choice_0d9ea5639362021019edf8d32bba1073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 16:06:30</sys_updated_on>
+        <text>12</text>
+        <value>12</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=0d9ea5639362021019edf8d32bba1073"/>
+</record_update>

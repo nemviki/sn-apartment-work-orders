@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Renew Lease">837d6def9322021019edf8d32bba1014</sc_cat_item>
+        <sc_catalog display_value="Apartment Tenant Catalog">108961ab9322021019edf8d32bba10ec</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 16:07:55</sys_created_on>
+        <sys_id>71eeed639362021019edf8d32bba106c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apartment Tenant Catalog.Renew Lease</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_71eeed639362021019edf8d32bba106c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 16:07:55</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</application>
+        <file_path/>
+        <instance_id>d9f343311bf1f958c84543f4bd4bcb10</instance_id>
+        <instance_name>dev182936</instance_name>
+        <name>sc_cat_item_catalog_71eeed639362021019edf8d32bba106c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Renew Lease">837d6def9322021019edf8d32bba1014</sc_cat_item><sc_catalog display_value="Apartment Tenant Catalog">108961ab9322021019edf8d32bba10ec</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-08 16:07:55</sys_created_on><sys_id>71eeed639362021019edf8d32bba106c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Apartment Tenant Catalog.Renew Lease</sys_name><sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package><sys_policy/><sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope><sys_update_name>sc_cat_item_catalog_71eeed639362021019edf8d32bba106c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-08 16:07:55</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-447907107</payload_hash>
+        <record_name>Apartment Tenant Catalog.Renew Lease</record_name>
+        <reverted_from/>
+        <source>d38247589322021019edf8d32bba1095</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 16:07:55</sys_created_on>
+        <sys_id>f9eeed639362021019edf8d32bba106f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff89b43420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 16:07:55</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>3deeed6359620210fd070499fa10146e</update_guid>
+        <update_guid_history>3deeed6359620210fd070499fa10146e:-447907107</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Apartment Tenant Catalog.Renew Lease">22eeed639362021019edf8d32bba10e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 16:07:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3669512290db4fa99ee8186f1e54c361</sys_id>
+        <sys_metadata>71eeed639362021019edf8d32bba106c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apartment Tenant Catalog.Renew Lease</sys_name>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_parent display_value="Renew Lease">837d6def9322021019edf8d32bba1014</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Apartment Tenant">4e26f2989322021019edf8d32bba1043</sys_scope>
+        <sys_scope_delete display_value="">010c2c9570cc40c4819b9634e1e90a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_71eeed639362021019edf8d32bba106c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_71eeed639362021019edf8d32bba106c">f9eeed639362021019edf8d32bba106f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 16:07:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
