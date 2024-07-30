@@ -17,7 +17,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Request" name="sc_request">57cf6dda8db0021087de63ac7f1f006e</super_class>
+        <super_class display_value="Request" name="sc_request">79a4c13b87b02110054032a80cbb35c5</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-29 19:57:15</sys_created_on>

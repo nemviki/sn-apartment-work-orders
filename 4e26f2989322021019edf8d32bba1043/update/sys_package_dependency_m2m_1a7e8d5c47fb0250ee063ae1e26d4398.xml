@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">aa94cdf787b02110054032a80cbb3516</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Viktoria.Nemeth@icmpd.org</sys_created_by>
+        <sys_created_on>2024-07-30 14:44:28</sys_created_on>
+        <sys_id>1a7e8d5c47fb0250ee063ae1e26d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Apartment Tenant" source="x_909466_apartme_0">4e26f2989322021019edf8d32bba1043</sys_package>
+        <sys_updated_by>Viktoria.Nemeth@icmpd.org</sys_updated_by>
+        <sys_updated_on>2024-07-30 14:44:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
